@@ -1,7 +1,8 @@
-#profile-title: LLxickVPN
-#support-url: https://t.me/LLxick2
-#profile-update-interval: 1
-#announce: UPD: 19.03.2026 14:59 | обновление каждые 30 мин | тгк @LLxickVPN
+#profile-title: ☪️МАРХ✔️VPN☪️
+#profile-update-interval: 24
+#announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=2150951622
+#support-url: https://https://t.me/+FjJ74BFKY8xjNGMyuyp
 
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.106.228.126:2053?&security=tls&fp=chrome&sni=snippet.danfeng.eu.org&type=ws&headerType=none&host=snippet.danfeng.eu.org&path=/danfeng#[WI-FI]
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@103.219.195.184:443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#[WI-FI]
