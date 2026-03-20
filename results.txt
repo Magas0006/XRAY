@@ -1,7 +1,8 @@
-#profile-title: LLxickVPN
-#support-url: https://t.me/LLxick2
-#profile-update-interval: 1
-#announce: UPD: 20.03.2026 09:10 | обновление каждые 30 мин | тгк @LLxickVPN
+#profile-title: ☪️МУСА✔️VPN☪️
+#profile-update-interval: 24
+#announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=2150951622
+#support-url: https://https://t.me/+FjJ74BFKY8xjNGMyuyp
 
 vless://ad66e1c4-a9e9-4c9a-8cbe-6ea260c0b763@45.95.232.77:443?type=xhttp&security=reality&encryption=none&fp=safari&pbk=V-ReZp6tTpyN5qBplVVIJJ8_yrjM9fDasnaEg3TJaBQ&sid=6851c3ff&sni=github.com&host=&mode=auto&spx=/#[WI-FI]
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.169.33.230:443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#[WI-FI]
